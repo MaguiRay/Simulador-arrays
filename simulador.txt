@@ -1,0 +1,1 @@
+El simulador te da el valor de un hotel en una región de la Argentina de acuerdo al ingreso de cantidad de personas y cantidad de dias. 
